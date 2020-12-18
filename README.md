@@ -12,7 +12,7 @@ The Poetic package has built-in functions to handle the download process without
 
 ## Versioning
 
-The versions and release tags of this repository does not correspond to the main repository because models are not and do not need to be frequently updated. Therefore, this does not follow
+The versions and release tags of this repository do not correspond to the main repository because models are not and do not need to be frequently updated. Therefore, this does not follow
 the release schedule of [poetic](https://github.com/kevin931/poetic).
 
 ## License
